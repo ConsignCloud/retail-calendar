@@ -44,9 +44,6 @@
   "dependencies": {
     "moment": "^2.25.3"
   },
-  "engines": {
-    "node": "~10.13.0"
-  },
   "volta": {
     "node": "10.13.0"
   }
